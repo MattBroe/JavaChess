@@ -10,7 +10,7 @@ April 2015
 
 Startup
 
-    1) Clone the JavaChess github repo and extract the contents to your Eclipse workspace folder.
+    1) Clone the JavaChess github repo.
      
     2) Open Eclipse and select Import from the File menu:
        File-->Import--> General --> Existing project into workspace
