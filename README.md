@@ -8,7 +8,7 @@ Author: Matt Broe
 
 April 2015
 
-Startup
+Startup:
 
     1) Clone the JavaChess github repo.
      
