@@ -21,4 +21,4 @@ Startup:
 
     5. In Eclipse’s Java Project sidebar, click Final Chess Project —> src —> (default package) and open Game.java. 
   
-    6. Run the Game class’s main method.
+    6. Run the Game class’s main method. Enjoy!
