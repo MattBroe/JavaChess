@@ -15,7 +15,7 @@ Startup:
 
     3) When the "Import Projects" window opens, click the “Browse” button next to the “Select root directory” field and 
     
-    find the (inner) JavaChess folder’s address (or type the JavaChess folder’s file address).
+    find the JavaChess folder’s address (or type the JavaChess folder’s file address).
     
     4) Select the dialogue box "Copy projects into workspace" and click "Finish"
 
