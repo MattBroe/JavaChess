@@ -6,8 +6,6 @@ README
 
 Author: Matt Broe
 
-April 2015
-
 Startup:
 
     1) Clone the JavaChess github repo.
